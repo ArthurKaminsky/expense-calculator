@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# expense-calculator
-This project is for calculating expense for each month by using NestJS and TypeScript
-=======
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -27,6 +23,7 @@ This project is for calculating expense for each month by using NestJS and TypeS
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 # expense-calculator
+
 This project is for calculating expense for each month by using NestJS and TypeScript
 
 
@@ -79,4 +76,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
->>>>>>> dd10b51 (first initial nest new expense-calculator)
