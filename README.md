@@ -37,6 +37,12 @@ This project is for calculating expense for each month by using NestJS and TypeS
 $ npm install
 ```
 
+## Terminal Commands:
+
+```bash
+
+```
+
 ## Running the app
 
 ```bash
