@@ -11,6 +11,19 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true,
-    "paths": {}
+    "paths": {
+      "@testLib/test-library": [
+        "libs/test-library/src"
+      ],
+      "@testLib/test-library/*": [
+        "libs/test-library/src/*"
+      ],
+      "testLibrary2/test-library-2": [
+        "libs/test-library-2/src"
+      ],
+      "testLibrary2/test-library-2/*": [
+        "libs/test-library-2/src/*"
+      ]
+    }
   }
 }
